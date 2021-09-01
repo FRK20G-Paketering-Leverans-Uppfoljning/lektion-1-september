@@ -9,3 +9,5 @@ Lösningsförslag på dessa övningar: https://gist.github.com/zocom-christoffer
 ## Videor
 
 ## Inspelningar
+
+https://drive.google.com/drive/folders/17Sqy_zMPsuXh3sNCZfIR5ncw-lBm997o?usp=sharing
